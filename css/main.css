@@ -1,0 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Quicksand:300,regular,500,600,700);
+
+* {
+   background-color: rgb(249,249,249);
+   font-family: Quicksand, Arial, Helvetica, sans-serif;
+}
